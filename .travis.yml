@@ -1,10 +1,10 @@
 language: node_js
-node_js: 
+node_js:
   - "6"
   - "8"
 brancher:
   only:
     - "dev"
     - "master"
-scripts:
+script:
   - "npm run cover"
