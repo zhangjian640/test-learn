@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/zhangjian640/test-learn.svg?branch=master)](https://travis-ci.org/zhangjian640/test-learn)
+[![codecov](https://codecov.io/gh/zhangjian640/test-learn/branch/master/graph/badge.svg)](https://codecov.io/gh/zhangjian640/test-learn)
